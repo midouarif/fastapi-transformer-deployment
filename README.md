@@ -1,4 +1,4 @@
-# DL-Transformer-FastAPI-Docker
+# Transformer Model Deployment with FastAPI & Docker
 
 A deep learning project using a Transformer model, deployed with **FastAPI** and containerized with **Docker**.  
 
@@ -9,6 +9,6 @@ A deep learning project using a Transformer model, deployed with **FastAPI** and
 
 ## Installation
 ```bash
-git clone https://github.com/your-username/DL-Transformer-FastAPI-Docker.git
-cd DL-Transformer-FastAPI-Docker
+git clone https://github.com/midouarif/fastapi-transformer-deployment.git
+cd fastapi-transformer-deployment
 pip install -r requirements.txt
